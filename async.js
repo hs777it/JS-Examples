@@ -12,5 +12,3 @@ const test = new Promise((resolve, reject) => {
 });
 test.then(() => console.log('Resolved'));
 console.log('End');
-
-
